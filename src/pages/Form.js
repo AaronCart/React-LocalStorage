@@ -17,7 +17,7 @@ export default function Form() {
             return;
 
         localStorage.setItem("details", JSON.stringify(fields));
-        alert("Your Details Have Been Successfully Sent");
+        alert("Your Details Have Been Successfully Sent!");
     };
 
     const handleValidation = () => {
