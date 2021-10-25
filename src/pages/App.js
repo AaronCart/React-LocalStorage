@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      {/* There isn't really any need for Router here as all components will be shown at all times */}
+      {/* Header, Form and Footer will be shown at all times regardless of Router */}
       <Router>
         <Header />
         <Switch>
