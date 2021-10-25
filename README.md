@@ -1,3 +1,6 @@
+# Aaron Cartledge - Assignment 3
+Tasks Completed - Tasks A, B, C, D & E
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import {
   BrowserRouter as Router,
   Route,
@@ -12,6 +12,7 @@ import './App.css';
 function App() {
   return (
     <div>
+      {/* There isn't really any need for Router here as all components will be shown at all times */}
       <Router>
         <Header />
         <Switch>

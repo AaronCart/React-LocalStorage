@@ -18,7 +18,7 @@ export default function Footer() {
                         s3840848
                     </li>
                 </ul>
-                {/* My Name & Student Number will be displayed in the footer at all times */}
+                {/* Course Code, My Name & Student Number will be displayed in the footer at all times */}
             </nav>
     )
 }
