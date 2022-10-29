@@ -1,5 +1,5 @@
-# Aaron Cartledge - Assignment 3
-Tasks Completed - Tasks A, B, C, D & E
+# Aaron Cartledge
+Basic React Website for saving form data in Local Storage
 
 # Getting Started with Create React App
 
